@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21e64935-114e-4cac-b307-27624d0f1b59" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feed/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feed/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feed/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feed/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feed/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feed/src/app.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feed/src/assets/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feed/src/components/Avatar.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feed/src/components/Avatar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feed/src/components/Comment.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feed/src/components/Commment.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feed/src/components/Header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feed/src/components/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feed/src/components/Post.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feed/src/components/Post.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feed/src/components/Sidebar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feed/src/components/Siderbar.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feed/src/globalStyled.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feed/src/main.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feed/src/vite-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feed/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feed/tsconfig.node.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feed/vite.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Dhn7kuMj9dQknwTLU95jJ8jyfx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "code.cleanup.on.save": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "actions.on.save",
+    "ts.external.directory.path": "C:\\Users\\ander\\IdeaProjects\\Feed\\feed\\node_modules\\typescript\\lib"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ander\IdeaProjects\Feed\feed\src" />
+      <recent name="C:\Users\ander\IdeaProjects\Feed\feed\src\components" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21e64935-114e-4cac-b307-27624d0f1b59" name="Changes" comment="" />
+      <created>1661160021266</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661160021266</updated>
+      <workItem from="1661160027425" duration="12252000" />
+      <workItem from="1661177860114" duration="320000" />
+      <workItem from="1661178303349" duration="95000" />
+      <workItem from="1661179607065" duration="850000" />
+      <workItem from="1661180582088" duration="57000" />
+      <workItem from="1661184214499" duration="19766000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
